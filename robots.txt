@@ -1,0 +1,6 @@
+# These are personal trip-planning notes, not a publication.
+# The site is meant to be shareable by link, not findable by search.
+# Delete this file if you ever want it indexed — but note that
+# un-indexing later is considerably harder than not indexing now.
+User-agent: *
+Disallow: /

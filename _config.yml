@@ -1,0 +1,15 @@
+title: Australia 2028 eclipse — trip research
+description: Sourced notes on where to stand for the total solar eclipse of 22 July 2028.
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-relative-links
+
+# Rewrites lodging-dubbo.md -> lodging-dubbo.html so the cross-links between
+# these documents keep working without editing the source files.
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - robots.txt.bak
