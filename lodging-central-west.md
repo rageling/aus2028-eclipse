@@ -2,7 +2,6 @@
 layout: default
 title: Lodging — Blue Mountains, Bathurst, Orange, Mudgee
 ---
-
 # Lodging — Blue Mountains, Bathurst, Orange, Mudgee
 
 Research note, 30 Aug 2026. This is the corridor between Sydney and Dubbo — the natural
@@ -140,7 +139,7 @@ elevation is an active liability, and the whole region will be far more conteste
 Sydney will. Meanwhile Penrith and the western Sydney basin appear to offer the corridor's best
 cloud odds with none of the lodging difficulty and effectively identical totality.
 
-The strongest use of this region for our group: **stay in Sydney or the western basin for eclipse
+The strongest use of this region: **stay in Sydney or the western basin for eclipse
 night, and use the Blue Mountains, Bathurst, Orange and Mudgee for the days around it** — where the
 cloud does not matter and the region is at its best.
 

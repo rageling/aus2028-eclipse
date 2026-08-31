@@ -2,7 +2,6 @@
 layout: default
 title: The eclipse
 ---
-
 # The eclipse
 
 Every number on this page carries a source. Nothing here is from memory — several
@@ -12,7 +11,7 @@ Every number on this page carries a source. Nothing here is from memory — seve
 
 | | |
 | --- | --- |
-| **Date** | **Saturday, 22 July 2028** — a weekend, which helps six people from three households |
+| **Date** | **Saturday, 22 July 2028** — a weekend, which helps for group travel |
 | **Greatest duration** | 5 min 10 s — among the dozen longest total eclipses of the 21st century |
 | **Point of greatest eclipse** | 15°36′S 126°42′E, Kimberley coast, Western Australia — 02:56:40 UTC |
 | **Saros / magnitude** | Saros 146 (member 28 of 76) / magnitude 1.056 |

@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Where we stand — the decision of record
+title: Site selection — the decision of record
 ---
-
-# Where we stand — the decision of record
+# Site selection — the decision of record
 
 **Status: OPEN.** Due **early 2027**. Everything else in this repo waits on it.
 
 This is the only genuinely hard decision on the trip. The date is fixed, the group is fixed, and
-Australia is a long way away regardless. What varies — enormously — is where the six of us are
+Australia is a long way away regardless. What varies — enormously — is where the group is
 standing at totality, and that choice trades **the odds of actually seeing it** against **how hard
-the trip is on the four people who are not in their thirties**.
+the trip is on the four older travellers in it**.
 
 ## The trade, stated plainly
 
@@ -24,7 +23,7 @@ sourced climatology.
 A full inventory of **every place in the path that has lodging** — including the Channel Country and
 Kimberley towns this table only samples — is in [`options.md`](options.md).
 
-Scored for **this group** — six people, three households, four of them parents or in-laws.
+Scored for a specific brief: **six people, four of them older travellers.**
 `Access` means getting there from an international arrival; `Bailout` means the ability to move on
 eclipse morning if the forecast turns.
 
@@ -69,7 +68,7 @@ more to be there.
 That reframes the comparison: it is not 47% versus 10%. It is *47%-with-a-several-hundred-kilometre
 escape route* versus *10%-with-none*, at very different costs in money and physical difficulty.
 
-## What would push us inland anyway
+## What would push the decision inland anyway
 
 Honest counterweight — the inland case is not weak:
 
@@ -83,7 +82,7 @@ Honest counterweight — the inland case is not weak:
 ## Open questions before the decision
 
 1. **Mobility and stamina — the real constraint.** How much driving, heat, dust and distance-from-a-hospital
-   is reasonable for the four older travellers? This is the input we most lack, and it
+   is reasonable for the four older travellers? This is the least-known input, and it
    probably decides the whole question. Ask directly rather than assuming.
 2. **Trip length.** A Sydney-anchored trip works at 10 days. A Kimberley trip does not really work
    under two weeks once domestic flights are counted.

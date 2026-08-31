@@ -2,12 +2,11 @@
 layout: default
 title: Options — every place in totality that has a bed
 ---
-
 # Options — every place in totality that has a bed
 
 Master inventory, compiled 30 Aug 2026. The filter is deliberate: **confirmed inside the path of
 totality, and has somewhere to sleep.** Places in the path with no lodging are listed at the bottom
-so we know they were considered and excluded, not overlooked.
+so they are on record as considered and excluded, not overlooked.
 
 Deep dives: [Dubbo](lodging-dubbo.md) · [Bourke](lodging-bourke.md) · [Central West](lodging-central-west.md).
 The decision itself lives in [`site-selection.md`](site-selection.md).
@@ -19,12 +18,12 @@ The decision itself lives in [`site-selection.md`](site-selection.md).
 Three things worth knowing before the table:
 
 1. **Southwest Queensland's Channel Country beats Bourke on both axes** — 4m21s–4m37s of totality
-   against Bourke's 4m06s, and ~25% cloud against ~30%. It was barely in our candidate set. It is
+   against Bourke's 4m06s, and ~25% cloud against ~30%. It is easily overlooked when assembling a candidate set. It is
    also the hardest place on this list to actually stay.
 2. **The inland squeeze has already started.** The Devils Marbles Hotel near Tennant Creek is
    **already fully booked for eclipse night** — it took its first eclipse inquiry within hours of
    changing management in October 2024 and has blocked out 2028 entirely.
-3. **Sydney is not unlimited, and I said it was.** Correcting that: the 2024 US eclipse pushed
+3. **Sydney is not unlimited, contrary to a common assumption.** Correcting that: the 2024 US eclipse pushed
    hotel vacancy in path cities **below 1% with price premiums of 100%+**. Sydney CBD has ~26,000
    rooms and Western Sydney ~8,700 — large, but a finite pool against what may be the city's
    busiest tourism weekend in a generation. Sydney remains the *easiest* option by a wide margin;
@@ -101,7 +100,7 @@ Sydney — not Bourke, and not the Blue Mountains.
 hotels, and still inside the path with the same westward escape route. Modest cloud gain over
 Sydney for modest added effort. The compromise that gives up the least.
 
-## What I would drop from consideration
+## What to drop from consideration
 
 - **Blue Mountains for eclipse night** — elevation manufactures cloud; the ~8% drying effect is on
   the descent, not the tops.

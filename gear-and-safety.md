@@ -2,15 +2,13 @@
 layout: default
 title: Gear and eye safety
 ---
-
 # Gear and eye safety
 
 ## Eye safety — the non-negotiable part
 
 Looking at the partial phases without proper filters causes permanent retinal damage, and it does
 not hurt while it happens. There are no pain receptors in the retina. This is the one part of the
-trip with an irreversible failure mode, so it gets treated seriously with six people, four of them
-guests of the organiser.
+trip with an irreversible failure mode, so it gets treated seriously across the whole group.
 
 **Rules:**
 
@@ -70,7 +68,7 @@ Group:
 - Offline maps downloaded in advance, and a paper backup if inland — see the mobile coverage gaps
   noted in [`eclipse-facts.md`](eclipse-facts.md)
 - Power banks
-- First-aid kit, more substantial if we are hours from a hospital
+- First-aid kit, more substantial if the site is hours from a hospital
 
 ## Eclipse-day plan
 

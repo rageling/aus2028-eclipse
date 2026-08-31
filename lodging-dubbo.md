@@ -2,7 +2,6 @@
 layout: default
 title: Lodging — Dubbo, NSW
 ---
-
 # Lodging — Dubbo, NSW
 
 Research note, 30 Aug 2026. Dubbo is the **best-equipped town in the path outside Sydney**, and on

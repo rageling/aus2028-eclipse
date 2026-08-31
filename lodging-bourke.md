@@ -2,7 +2,6 @@
 layout: default
 title: Lodging — Bourke, NSW
 ---
-
 # Lodging — Bourke, NSW
 
 Research note, 30 Aug 2026. Bourke is the **longest-totality town on the Australian mainland list
@@ -100,7 +99,7 @@ That is the whole duration difference — 4:06 against 3:50. Bourke's cloud odds
 properties, a 170-room hotel, four airlines and roughly 51 flights a week from Sydney, and a proper
 regional hospital.
 
-For six people including four parents and in-laws, **Dubbo is very likely the better version of the
+For a group of six including four older travellers, **Dubbo is very likely the better version of the
 inland-NSW play**, with Bourke as an eclipse-morning drive west only if the forecast demands it —
 though note that is a 4-hour drive, so it is a day-before decision, not a morning one.
 
