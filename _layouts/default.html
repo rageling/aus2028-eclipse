@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title and page.url != "/" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+<!-- Applied before first paint so an explicitly chosen theme does not flash the
+     wrong colours on load. The full toggle logic is in theme.js. -->
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+
+<div class="topbar">
+  <nav>
+    {%- assign here = page.url -%}
+    <a href="{{ '/' | relative_url }}"{% if here == "/" %} class="here"{% endif %}>Home</a>
+    <a href="{{ '/site-selection.html' | relative_url }}"{% if here contains "site-selection" %} class="here"{% endif %}>The decision</a>
+    <a href="{{ '/eclipse-facts.html' | relative_url }}"{% if here contains "eclipse-facts" %} class="here"{% endif %}>Facts</a>
+    <a href="{{ '/options.html' | relative_url }}"{% if here contains "options" %} class="here"{% endif %}>Options</a>
+    <a href="{{ '/lodging-dubbo.html' | relative_url }}"{% if here contains "lodging" %} class="here"{% endif %}>Lodging</a>
+    <a href="{{ '/gear-and-safety.html' | relative_url }}"{% if here contains "gear" %} class="here"{% endif %}>Gear</a>
+  </nav>
+  <button type="button" id="theme-toggle">Auto</button>
+</div>
+
+{{ content }}
+
+<footer>
+  Working notes for the total solar eclipse of 22 July 2028.
+  Every claim is sourced; anything unverified is marked <code>TBD — verify</code>.
+  <a href="https://github.com/{{ site.github_repo | default: 'rageling/aus2028-eclipse' }}">Source on GitHub</a>.
+</footer>
+
+</div>
+<script src="{{ '/theme.js' | relative_url }}"></script>
+</body>
+</html>

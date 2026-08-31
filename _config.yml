@@ -1,6 +1,5 @@
 title: Australia 2028 eclipse — trip research
 description: Sourced notes on where to stand for the total solar eclipse of 22 July 2028.
-theme: jekyll-theme-primer
 
 plugins:
   - jekyll-relative-links
@@ -11,5 +10,11 @@ relative_links:
   enabled: true
   collections: false
 
-exclude:
-  - robots.txt.bak
+# No `theme:` — the public and private sites share site/style.css and a local
+# _layouts/default.html, so the dark-mode toggle behaves identically on both.
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }
+
+github_repo: rageling/aus2028-eclipse
